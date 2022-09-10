@@ -6,6 +6,7 @@ require (
 	github.com/google/go-cmp v0.5.8
 	github.com/google/uuid v1.3.0
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
+	github.com/lucasjones/reggen v0.0.0-20200904144131-37ba4fa293bb
 	github.com/octago/sflags v0.2.0
 	github.com/pkg/math v0.0.0-20141027224758-f2ed9e40e245
 	github.com/spf13/cobra v1.4.0
